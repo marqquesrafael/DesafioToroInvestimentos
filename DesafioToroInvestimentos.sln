@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioToroInvestimentos.Do
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioToroInvestimentos.WebAPI", "DesafioToroInvestimentos.WebAPI\DesafioToroInvestimentos.WebAPI.csproj", "{F4D85E24-4E59-4F92-B579-1E865F5E7C57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioToroInvestimentos.Tests", "DesafioToroInvestimentos.Tests\DesafioToroInvestimentos.Tests.csproj", "{023528E2-559E-47BD-A6F5-A025CA74BBFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioToroInvestimentos.Tests", "DesafioToroInvestimentos.Tests\DesafioToroInvestimentos.Tests.csproj", "{023528E2-559E-47BD-A6F5-A025CA74BBFB}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "DesafioToroInvestimentos-SPA-Angular", "DesafioToroInvestimentos-SPA-Angular\DesafioToroInvestimentos-SPA-Angular.esproj", "{09F09363-42D1-40E2-837E-2560D11E2D51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,12 @@ Global
 		{023528E2-559E-47BD-A6F5-A025CA74BBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{023528E2-559E-47BD-A6F5-A025CA74BBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{023528E2-559E-47BD-A6F5-A025CA74BBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F09363-42D1-40E2-837E-2560D11E2D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F09363-42D1-40E2-837E-2560D11E2D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F09363-42D1-40E2-837E-2560D11E2D51}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{09F09363-42D1-40E2-837E-2560D11E2D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F09363-42D1-40E2-837E-2560D11E2D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F09363-42D1-40E2-837E-2560D11E2D51}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
