@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesafioToroInvestimentos.Application/1.0.0": {
+        "dependencies": {
+          "DesafioToroInvestimentos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DesafioToroInvestimentos.Application.dll": {}
+        }
+      },
+      "DesafioToroInvestimentos.Domain/1.0.0": {
+        "runtime": {
+          "DesafioToroInvestimentos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioToroInvestimentos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioToroInvestimentos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

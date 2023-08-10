@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTUDDFxWUw0/Iz8gCy5TMjPMdLxmSC0gcF4IlrE6kHJarJtaFWPjvGjyBlVIya3BFlXEuq0yvLEq+NreQA278A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Application\\DesafioToroInvestimentos.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

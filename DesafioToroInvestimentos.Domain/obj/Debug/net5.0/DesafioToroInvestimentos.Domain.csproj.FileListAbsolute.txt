@@ -1,0 +1,12 @@
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\bin\Debug\net5.0\DesafioToroInvestimentos.Domain.deps.json
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\bin\Debug\net5.0\DesafioToroInvestimentos.Domain.dll
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\bin\Debug\net5.0\DesafioToroInvestimentos.Domain.pdb
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\DesafioToroInvestimentos.Domain.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\DesafioToroInvestimentos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\DesafioToroInvestimentos.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\DesafioToroInvestimentos.Domain.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\DesafioToroInvestimentos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\DesafioToroInvestimentos.Domain.dll
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\refint\DesafioToroInvestimentos.Domain.dll
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\DesafioToroInvestimentos.Domain.pdb
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Domain\obj\Debug\net5.0\ref\DesafioToroInvestimentos.Domain.dll

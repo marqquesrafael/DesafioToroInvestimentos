@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\bin\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.deps.json
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\bin\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.dll
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\bin\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.pdb
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\bin\Debug\net5.0\DesafioToroInvestimentos.Domain.dll
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\bin\Debug\net5.0\DesafioToroInvestimentos.Domain.pdb
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.csproj.CopyComplete
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.dll
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\refint\DesafioToroInvestimentos.Infrastructure.dll
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\DesafioToroInvestimentos.Infrastructure.pdb
+C:\Users\Rafael\source\repos\DesafioToroInvestimentos\DesafioToroInvestimentos.Infrastructure\obj\Debug\net5.0\ref\DesafioToroInvestimentos.Infrastructure.dll
