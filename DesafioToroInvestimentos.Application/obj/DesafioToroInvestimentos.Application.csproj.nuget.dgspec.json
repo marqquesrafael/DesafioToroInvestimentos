@@ -11,7 +11,7 @@
         "projectName": "DesafioToroInvestimentos.Application",
         "projectPath": "C:\\Users\\Rafael\\source\\repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Application\\DesafioToroInvestimentos.Application.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\source\\repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Application\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Source\\Repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,7 +80,7 @@
         "projectName": "DesafioToroInvestimentos.Domain",
         "projectPath": "C:\\Users\\Rafael\\source\\repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Domain\\DesafioToroInvestimentos.Domain.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\source\\repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Source\\Repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

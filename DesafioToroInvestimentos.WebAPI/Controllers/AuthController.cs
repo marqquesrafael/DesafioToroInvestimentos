@@ -14,12 +14,11 @@ namespace DesafioToroInvestimentos.WebAPI.Controllers
     public class AuthController : ControllerBase
     {
         private readonly ILoginService _loginService;
-        private readonly IUserService _userService;
 
-        public AuthController(ILoginService loginService, IUserService userService)
+
+        public AuthController(ILoginService loginService)
         {
             _loginService = loginService;
-            _userService = userService;
         }
 
        
