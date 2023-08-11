@@ -1,4 +1,5 @@
 ﻿using AutoFixture;
+using AutoMapper;
 using DesafioToroInvestimentos.Application.Services;
 using DesafioToroInvestimentos.Domain.Entities.User;
 using DesafioToroInvestimentos.Domain.Exceptions;
@@ -12,14 +13,16 @@ namespace DesafioToroInvestimentos.Tests.Application.Services
     public class UserServiceTests
     {
         private Mock<IUserRepository> _userRepository;
+        private readonly Mock<IMapper> _mapper;
 
         private IUserService _userService;
 
         public UserServiceTests()
         {
             _userRepository = new Mock<IUserRepository>();
+            _mapper = new Mock<IMapper>();
 
-            _userService = new UserService(_userRepository.Object);
+            _userService = new UserService(_userRepository.Object, _mapper.Object);
         }
 
 

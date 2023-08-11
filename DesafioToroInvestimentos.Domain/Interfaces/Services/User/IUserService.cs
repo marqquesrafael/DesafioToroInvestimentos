@@ -11,6 +11,6 @@ namespace DesafioToroInvestimentos.Domain.Interfaces.Services.User
     {
         UserEntity GetUserByEmailAndPassword(string email, string password);
 
-        IQueryable<UserEntity> GetAll();
+        TOut GetById<TOut>(long id);
     }
 }

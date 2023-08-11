@@ -1,10 +1,6 @@
 using DesafioToroInvestimentos.Infrastructure;
 using DesafioToroInvestimentos.Application;
 using Microsoft.OpenApi.Models;
-using Newtonsoft.Json.Linq;
-using static System.Net.Mime.MediaTypeNames;
-using System.Diagnostics.Metrics;
-using System.Reflection.Metadata;
 
 var builder = WebApplication.CreateBuilder(args);
 

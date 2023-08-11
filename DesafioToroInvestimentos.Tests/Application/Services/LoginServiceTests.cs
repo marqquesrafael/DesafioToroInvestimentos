@@ -1,4 +1,5 @@
 ﻿using AutoFixture;
+using AutoMapper;
 using DesafioToroInvestimentos.Application.Services;
 using DesafioToroInvestimentos.Domain.Entities.User;
 using DesafioToroInvestimentos.Domain.Exceptions;
@@ -17,6 +18,7 @@ namespace DesafioToroInvestimentos.Tests.Application.Services
         private readonly Mock<IUserRepository> _userRepository;
         private readonly IUserService _userService;
         private readonly Mock<IJwtProvider> _jwtProvider;
+        private readonly Mock<IMapper> _mapper;
 
         private readonly ILoginService _loginService;
 
@@ -24,8 +26,9 @@ namespace DesafioToroInvestimentos.Tests.Application.Services
         {
             _userRepository = new Mock<IUserRepository>();
             _jwtProvider = new Mock<IJwtProvider>();
+            _mapper = new Mock<IMapper>();
 
-            _userService = new UserService(_userRepository.Object);
+            _userService = new UserService(_userRepository.Object, _mapper.Object);
 
             _loginService = new LoginService(_userService, _jwtProvider.Object);
         }

@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "4OdL/fDWOmgyRzFfr5+yM+Cx5gKAtVpZhXFNIvv1kYfxmpgThGQQVeun2s4D4gKmYYDzzU/23LvSTnVpW6JUaw==",
+  "dgSpecHash": "BH26fsp6dZewcEp45evAJJK9AogDXf3dr0mkJMByeUPFJJuqPrqTqshoyAPrOsPJ1VljAupr3B9ZVvHtNLDR1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.Application\\DesafioToroInvestimentos.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,4 +1,5 @@
-﻿using DesafioToroInvestimentos.Domain.Interfaces.Services.User;
+﻿using DesafioToroInvestimentos.Domain.DTOs;
+using DesafioToroInvestimentos.Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -19,9 +20,9 @@ namespace DesafioToroInvestimentos.WebAPI.Controllers
         [HttpGet("/user/{Id}"), Authorize]
         public IActionResult GetUser(long id)
         {
-            var user = _userService.GetById(id);
+            var user = _userService.GetById<UserOutputDto>(id);
 
-            return Ok(user.FullName);
+            return Ok(user);
         }
     }
 }

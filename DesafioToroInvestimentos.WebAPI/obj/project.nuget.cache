@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UUm9F7oTbJGrVLOF8WZibvW/HfxCBMwuA0KYJjrPara68Q7ucEHmykPqXXTgru/3echk8r6E4gK1Gn/oA8y9bw==",
+  "dgSpecHash": "WZeUHif2ga3qm3t+aCFXR/7pgSxoMVyAL1rKSFD6h1LxVTJVvlkB+dX0JXbMekRxXAL/wi6PdjDQfXHCEozeaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\DesafioToroInvestimentos\\DesafioToroInvestimentos.WebAPI\\DesafioToroInvestimentos.WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
