@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ExternalServices\ViaCepApi\" />
+    <Compile Remove="ExternalServices\**" />
+    <EmbeddedResource Remove="ExternalServices\**" />
+    <None Remove="ExternalServices\**" />
   </ItemGroup>
 
   <ItemGroup>
